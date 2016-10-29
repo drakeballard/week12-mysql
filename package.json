@@ -1,0 +1,28 @@
+{
+  "name": "shopping",
+  "version": "1.0.0",
+  "description": "shopping",
+  "main": "bamazoncust.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drakeballard/week12-mysql.git"
+  },
+  "author": "Drake Ballard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drakeballard/week12-mysql/issues"
+  },
+  "homepage": "https://github.com/drakeballard/week12-mysql#readme",
+  "dependencies": {
+    "clear": "0.0.1",
+    "inquirer": "^1.2.2",
+    "mysql": "^2.11.1",
+    "table-master": "^1.0.3"
+  },
+  "keywords": [
+    "shopping"
+  ]
+}
